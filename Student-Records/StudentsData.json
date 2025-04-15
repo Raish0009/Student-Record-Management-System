@@ -1,0 +1,36 @@
+[
+    {
+        "id": 101,
+        "name": "raish",
+        "email": "raish@gmail.com",
+        "contact": "1231231234",
+        "address": "jaipur",
+        "qualification": [
+            {
+                "qualificaton_name": "b.com",
+                "qualificaton_year": "2010"
+            },
+            {
+                "qualificaton_name": "m.c.a",
+                "qualificaton_year": "2015"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "mohit",
+        "email": "mohit@gmail.com",
+        "contact": "9090909090",
+        "address": "jodhpur",
+        "qualification": [
+            {
+                "qualificaton_name": "b.com",
+                "qualificaton_year": "2040"
+            },
+            {
+                "qualificaton_name": "b.c.a",
+                "qualificaton_year": "2025"
+            }
+        ]
+    }
+]
